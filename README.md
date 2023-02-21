@@ -7,8 +7,8 @@ UncleEngineer Course Python101
   - Turtle
 ## EP2 : GUI
   - TK inter 
-    Button
-  import picture
+    1. Button
+    2. import picture
 ## EP3 : Create GitHub account
 
 
